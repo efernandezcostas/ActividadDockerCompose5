@@ -42,7 +42,7 @@ volumes:
 ~~~
 
 ## Ejecutar el archivo .yaml
-docker compose up -d
+<code>docker compose up -d</code>
 - -d -> Para que se haga en segundo plano y poder utilizar la consola una vez termine
 ~~~
 enrique@enrique:~/compose$ docker compose up -d
